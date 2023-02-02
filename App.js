@@ -9,7 +9,7 @@ import {
   Button,
 } from "react-native";
 import { LightSensor } from "expo-sensors";
-import ShadowView from "./ShadowView";
+
 // Initialise une nouvelle connexion de client Paho
 const clientID = "clientID-" + parseInt(Math.random() * 100);
 
